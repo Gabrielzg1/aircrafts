@@ -1,0 +1,22 @@
+{
+  "name": "aircrafts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabrielzg1/aircrafts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gabrielzg1/aircrafts/issues"
+  },
+  "homepage": "https://github.com/Gabrielzg1/aircrafts#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.0"
+  }
+}
